@@ -6,9 +6,6 @@ import io.hexlet.xo.model.exceptions.InvalidPointException;
 
 import java.awt.*;
 
-/**
- * Created by peter on 2015-11-25.
- */
 public class WinnerController {
 
     public Figure getWinner(final Field field) {
