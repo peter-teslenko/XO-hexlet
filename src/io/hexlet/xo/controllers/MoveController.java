@@ -7,9 +7,6 @@ import io.hexlet.xo.model.exceptions.InvalidPointException;
 
 import java.awt.*;
 
-/**
- * Created by peter on 2015-11-25.
- */
 public class MoveController {
 
     public void applyFigure(final Field field,

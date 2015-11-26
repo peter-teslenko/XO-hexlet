@@ -4,9 +4,6 @@ import io.hexlet.xo.model.exceptions.InvalidPointException;
 
 import java.awt.*;
 
-/**
- * Created by peter on 2015-11-25.
- */
 public class Field {
 
     private static final int MIN_COORDINATE = 0;
